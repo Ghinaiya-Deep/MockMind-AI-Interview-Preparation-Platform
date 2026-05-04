@@ -276,7 +276,7 @@ Software Developer | Web Developer | AI Builder
 
 # 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/deep-ghinaiya/
+LinkedIn: https://www.linkedin.com/in/deep-ghinaiya/ <br>
 GitHub: https://github.com/Ghinaiya-Deep/
 Portfolio: https://deepghinaiya.netlify.app/
 ResearchGate: https://www.researchgate.net/profile/Ghinaiya-Deep/
