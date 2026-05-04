@@ -286,12 +286,10 @@ ResearchGate: https://www.researchgate.net/profile/Ghinaiya-Deep/
 # 📜 License
 
 This project is developed for portfolio and educational purposes.
-All rights reserved © Deep.
+All rights reserved © Deep Ghinaiya.
 
 ---
 
 ⭐ If you found this project impressive, consider starring the repository.
 
 ---
-
-If you want, I can now give you a **premium open-source style version with badges, shields, build indicators, and clean visuals** that looks like a top-tier GitHub project.
